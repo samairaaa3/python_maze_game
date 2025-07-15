@@ -1,6 +1,6 @@
 # python_maze_game
 A Python-based Turtle Maze Game
-## 🛠️ Tools & Concepts
+##  Tools & Concepts
 - Python
 - Turtle graphics
 - 2D arrays & file I/O
@@ -9,7 +9,7 @@ A Python-based Turtle Maze Game
 
 ---
 
-## 🎯 Features
+##  Features
 - Maze read from external `.txt` files with customizable symbols
 - Keyboard-controlled turtle (arrow keys) with animated path
 - Color-coded maze visualization (walls, roads, entrance, exit)
@@ -17,7 +17,7 @@ A Python-based Turtle Maze Game
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 Here’s a solved maze with the turtle's path:
 
@@ -25,7 +25,7 @@ Here’s a solved maze with the turtle's path:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone this repo
 2. Run:
